@@ -1,2 +1,2 @@
-# Pós_graua-o_DataScience
+# Pós_graduação_DataScience
 Exercícios, projetos e aulas da pós grauação
